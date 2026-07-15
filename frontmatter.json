@@ -54,5 +54,6 @@
       "title": "content",
       "path": "[[workspace]]/content"
     }
-  ]
+  ],
+  "frontMatter.git.enabled": true
 }
