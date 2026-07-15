@@ -1,18 +1,6 @@
 ---
 title: Bobbie Xortez
-description: ""
-date: 2026-07-15T01:38:11.624Z
-preview: ""
-tags: []
-categories: []
-name: "Bobbie Xortez"
-type: "character"
-image: "https://eberron-with-carlos-f654df8a.us.sqyre.app/ddb-images/characters/165521476-bobbie.webp"
-species: "Aasimar"
-class: "Artificer (Alchemist) 4"
-background: "Archaeologist"
-alignment: "True Neutral"
-level: 4
+layout: page
 ---
 
 # Bobbie Xortez
